@@ -1,0 +1,10 @@
+﻿[*.cs]
+
+# IDE1006: Estilos de nombres
+dotnet_diagnostic.IDE1006.severity = none
+
+# IDE0058: El valor de la expresión no se utiliza nunca.
+dotnet_diagnostic.IDE0058.severity = none
+
+# CA1806: No omitir resultados del método
+dotnet_diagnostic.CA1806.severity = none
